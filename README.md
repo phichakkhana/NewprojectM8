@@ -29,7 +29,7 @@ The website of the product is not perfect, but press the product, both the price
 
 **API** 
 
-*API Ecommerce https://github.com/keikaavousi/fake-store-api
+* API Ecommerce https://github.com/keikaavousi/fake-store-api
 #
 
 **Setup**
